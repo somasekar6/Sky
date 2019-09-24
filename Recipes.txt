@@ -2,9 +2,18 @@
 
 Welcome to kitchen
 
+Breakfast:
 Idly
 Poori
 Dosai
+
+Lunch: 
+Meals
+Biriyani
+
+Dinner:
+Chapathi
+
 
 Thankyou
 Sunday spcial!
