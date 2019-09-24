@@ -2,8 +2,14 @@
 
 Welcome to kitchen
 
+Breakfast:
 Idly
 Poori
 Dosai
+
+Lunch: 
+Meals
+Biriyani
+
 
 Thankyou
